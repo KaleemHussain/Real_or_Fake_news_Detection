@@ -1,8 +1,5 @@
 # Fake News Detection
-```bash 
-👨‍💻 Author
-Made with ❤️ by Kaleem_Hussaim
-Bachelor of Science in Artificial Intelligence
+
 GitHub: https://github.com/KaleemHussain/Real_or_Fake_news_Detection/tree/main
 
 This project detects whether a news article is real or fake using NLP and machine learning.
@@ -97,5 +94,6 @@ python test_news.py
 
 Prediction: REAL OR FAKE
 
-
-
+```bash 
+👨‍💻 Author
+Made by Kaleem_Hussain
